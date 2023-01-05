@@ -23,6 +23,19 @@
     padding: 18px 35px;
 
 }
+.btn{
+    height: 64px;
+    
+    border-radius: 5px;
+    background: transparent;
+    color: #ffff;
+    font-weight: 700;
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 18px 35px;
+
+}
+
 
 
 
